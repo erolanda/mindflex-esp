@@ -1,0 +1,24 @@
+{
+  "name": "mindflex-esp",
+  "version": "1.0.0",
+  "description": "esp8266 sketch to read data from a Mindflex and send them over WiFi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erolanda/mindflex-esp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erolanda/mindflex-esp/issues"
+  },
+  "homepage": "https://github.com/erolanda/mindflex-esp#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "pug": "^2.0.0-beta11",
+    "ws": "^2.2.0"
+  }
+}
